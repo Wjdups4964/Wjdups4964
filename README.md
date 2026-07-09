@@ -91,7 +91,7 @@ Sou de Belo Jardim, Pernambuco, e sou apaixonado(a) por tecnologia e programaç�
 
 <br/>
 <br/>
-
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -111,6 +111,7 @@ Sou de Belo Jardim, Pernambuco, e sou apaixonado(a) por tecnologia e programaç�
   />
 
 </p>
+-->
 
 ### 🐍 Minhas Contribuições
 
